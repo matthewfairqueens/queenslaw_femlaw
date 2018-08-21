@@ -1,0 +1,16 @@
+{
+  "name": "drupal/queenslaw_femlaw",
+  "description": "A custom theme developed for the Queen's University Faculty of Law Feminist Legal Studies website by Purely Interactive.",
+  "type": "drupal-custom-theme",
+  "homepage": "http://femlaw.law.queensu.ca/",
+  "authors": [
+    {
+      "name": "Noah St. Amand",
+      "email": "noah@purelyinteractive.ca",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
